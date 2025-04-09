@@ -1,4 +1,3 @@
-<h1 align="center">Olá! Eu sou Thayliny </h1>
 
 <p align="center">
   <em>Estudante de Engenharia de Software • Apaixonada por tecnologia e desenvolvimento de projetos de Software</em>
@@ -40,5 +39,5 @@
 ### 📫 Contato
 
 - ✉️ Email: thayliny.alvesmoura@gmail.com
-- 💼 LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/thaylinymoura/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/thaylinymoura/](https://www.linkedin.com/in/thaylinymoura/)
 
