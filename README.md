@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou Thayliny </h1>
+<h1 align="center">Olá! Eu sou Thayliny </h1>
 
 <p align="center">
   <em>Estudante de Engenharia de Software • Apaixonada por tecnologia e desenvolvimento de projetos de Software</em>
@@ -22,11 +22,20 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaylinymoura&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaylinymoura&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaylinymoura&show_icons=true&theme=graywhite"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaylinymoura&layout=compact&theme=graywhite"/>
 </div>
 
 ---
+
+### 🌍 Idiomas
+
+- 🇧🇷 Português (nativo)
+- 🇺🇸 Inglês (intermediário)
+- 🇪🇸 Espanhol (básico)
+
+  ---
+
 
 ### 📫 Contato
 
